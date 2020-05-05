@@ -290,7 +290,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-color: rgb(252, 227, 138);
-  transition: all 0.2 linear;
+  transition: all 0.2s linear;
 }
 
 .social-list__item-link:hover,
